@@ -1,0 +1,29 @@
+.calc{
+    margin-left: 400px;
+    width: 300px;
+    height: 440px;
+    border: solid darkblue;
+    background-color: gray;
+}
+#screen{
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 30px;
+    pointer-events: none;
+}
+.btn{
+    width: 37px;
+    height: 27px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: indianred;
+}
+.footer{
+    margin-left: 170px;
+    margin-top: 60px;
+    font: small-caption;
+    font-size: 12px;
+    color: blue;
+    font-style: italic;
+}
